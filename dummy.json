@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "Termék 1",
+    "price": 5000,
+    "purchased": 0,
+    "createdAt": "2019-10-10 15:45"
+  },
+  {
+    "id": 2,
+    "name": "Termék 2",
+    "price": 50000,
+    "purchased": 10,
+    "createdAt": "2018-11-12 05:43"
+  },
+  {
+    "id": 3,
+    "name": "Termék 3",
+    "price": 1000,
+    "purchased": 3,
+    "createdAt": "2019-10-11 16:49"
+  },
+  {
+    "id": 4,
+    "name": "Termék 4",
+    "price": 50,
+    "purchased": 1000,
+    "createdAt": "2017-01-11 07:32"
+  },
+  {
+    "id": 5,
+    "name": "Termék 5",
+    "price": 500,
+    "purchased": 33,
+    "createdAt": "2019-12-12 12:12"
+  },
+  {
+    "id": 6,
+    "name": "Termék 6",
+    "price": 123,
+    "purchased": 99,
+    "createdAt": "2020-05-12 10:11"
+  },
+  {
+    "id": 7,
+    "name": "Termék 7",
+    "price": 77,
+    "purchased": 77,
+    "createdAt": "2009-05-10 13:13"
+  },
+  {
+    "id": 8,
+    "name": "Termék 8",
+    "price": 989786,
+    "purchased": 1,
+    "createdAt": "2013-10-31 15:45"
+  },
+  {
+    "id": 9,
+    "name": "Ingyen Termék 9",
+    "price": 0,
+    "purchased": 555,
+    "createdAt": "2000-01-01 17:55"
+  },
+  {
+    "id": 10,
+    "name": "Termék 10",
+    "price": 5000,
+    "purchased": 3,
+    "createdAt": "2016-06-10 02:10"
+  },
+  {
+    "id": 11,
+    "name": "Ingyenes Termék 11",
+    "price": 0,
+    "purchased": 1000,
+    "createdAt": "1999-12-01 18:35"
+  }
+]
